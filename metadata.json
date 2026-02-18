@@ -1,0 +1,8 @@
+{
+  "name": "EduNexus University Portal",
+  "description": "A comprehensive university management system featuring enrollment, classroom tracking, ID gate logs, schedules, and AI-powered assignment assistance for image, video, and audio analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
